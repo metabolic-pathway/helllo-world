@@ -1,2 +1,5 @@
 # helllo-world
-Just another 
+
+Hi humans!
+
+Hello, happy world!
